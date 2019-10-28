@@ -1,5 +1,5 @@
 #/bin/bash
-git push -u origin --all
-git push -u old-origin --all
-git push -u old-old-origin --all
+git push -u bitbucket --all
+git push -u github --all
+git push -u gitlab --all
 exit 0
